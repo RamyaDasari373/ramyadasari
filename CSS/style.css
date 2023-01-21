@@ -266,7 +266,7 @@ h2 span{
 
 /* hero section starts */
 #hero {
-    background-image: url(./img/backg.jpg);
+    background-image: url(img/backg.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
